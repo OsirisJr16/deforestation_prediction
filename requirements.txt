@@ -1,0 +1,10 @@
+torch 
+torchvision
+deepforest
+fastapi 
+uvicorn 
+opencv-python 
+Pillow 
+numpy
+geopandas
+python-multipart
